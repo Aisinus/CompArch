@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/xxxau/Desktop/ComArch111/Week13/simulation/modelsim
+vcontrol_unit
+Z1 !s110 1606398484
+!i10b 1
+!s100 0g20T:[BOmG`FZ;SXYl0a0
+Id@;nh68V^U7fB24i4Wffz0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606398371
+8C:/Users/xxxau/Desktop/ComArch111/Week13/control_unit.v
+FC:/Users/xxxau/Desktop/ComArch111/Week13/control_unit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606398484.000000
+!s107 C:/Users/xxxau/Desktop/ComArch111/Week13/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/xxxau/Desktop/ComArch111/Week13|C:/Users/xxxau/Desktop/ComArch111/Week13/control_unit.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/xxxau/Desktop/ComArch111/Week13
+Z7 tCvgOpt 0
+vhard_block
+R1
+!i10b 1
+!s100 3J0=7YP8_n9Cn=A@GNT:20
+I0UZen_@CYj42Dfn=cmXR82
+R2
+R0
+w1606398476
+8Lab13.vo
+FLab13.vo
+L0 1095
+R3
+r1
+!s85 0
+31
+R4
+!s107 Lab13.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|Lab13.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vtestbench
+R1
+!i10b 1
+!s100 8j^925n7Zd;RLhW=[8Ag<3
+IfYIMNDVWYLG@6MCm`4HMG0
+R2
+R0
+w1606397456
+8C:/Users/xxxau/Desktop/ComArch111/Week13/testbench.v
+FC:/Users/xxxau/Desktop/ComArch111/Week13/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xxxau/Desktop/ComArch111/Week13/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/xxxau/Desktop/ComArch111/Week13|C:/Users/xxxau/Desktop/ComArch111/Week13/testbench.v|
+!i113 1
+R5
+R6
+R7
